@@ -1,0 +1,26 @@
+{
+  "name": "ice1-starter",
+  "version": "1.0.0",
+  "description": "This is my INFT2202 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "browser-sync start --server --files src/**/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ranitkallan01/inft2202.git"
+  },
+  "author": "Ranit Kallan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ranitkallan01/inft2202/issues"
+  },
+  "homepage": "https://github.com/Ranitkallan01/inft2202#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "browser-sync": "^3.0.2",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.7.1"
+  }
+}
